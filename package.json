@@ -1,7 +1,7 @@
 {
   "name": "react-native-truecaller-wrapper",
   "title": "React Native Truecaller Wrapper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TODO",
   "main": "index.js",
   "files": [
@@ -36,8 +36,5 @@
   "devDependencies": {
     "react": "^16.9.0",
     "react-native": "^0.61.5"
-  },
-  "dependencies": {
-    "packages": "link:../"
   }
 }

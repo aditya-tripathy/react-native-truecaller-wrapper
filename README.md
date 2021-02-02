@@ -13,5 +13,5 @@
 import TruecallerWrapper from 'react-native-truecaller-wrapper';
 
 // TODO: What to do with the module?
-TruecallerWrapper;
+TruecallerWrapper.authenticate();
 ```
