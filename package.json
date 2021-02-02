@@ -1,7 +1,7 @@
 {
   "name": "react-native-truecaller-wrapper",
   "title": "React Native Truecaller Wrapper",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "TODO",
   "main": "index.js",
   "files": [
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-truecaller-wrapper.git",
-    "baseUrl": "https://github.com/github_account/react-native-truecaller-wrapper"
+    "url": "git+https://github.com/aditya-tripathy/react-native-truecaller-wrapper.git",
+    "baseUrl": "https://github.com/aditya-tripathy/react-native-truecaller-wrapper"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Aditya Kumar Tripathy",
+    "email": "aditya.tripathy93@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
